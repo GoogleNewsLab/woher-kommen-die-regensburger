@@ -1,4 +1,10 @@
-# WhereAreWe
+# Woher kommen die Regensburger
+
+[Live Version](http://stories.mittelbayerische.de/interaktiv/woher-kommen-die-regensburger)
+
+Within the framework of the Google News Lab Fellowship, I tried to answers the question from where people moved to the city of Regensburg. As a result, I developed a map application for the Mittelbayerische Zeitung in Regensburg which gives the user the possibility to find out how many people moved into the city over the last six years. 
+
+This application not only contains options like searching for different cities but further enables everyone to observe the continuous movement out of every town to Regensburg. The whole map is embedded into a journalistic article, which describes general movement developments into the city itself based on a federal and international level. 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
